@@ -5,3 +5,10 @@ footer h3 {
     font-weight: 300;
     opacity: .2;
 }
+p.copyright {
+    margin-bottom: 30px;
+    margin-top: 0;
+    font-size: 28px;
+    font-weight: 300;
+    opacity: .2;
+}
